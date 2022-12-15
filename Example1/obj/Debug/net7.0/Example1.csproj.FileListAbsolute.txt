@@ -1,0 +1,15 @@
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\bin\Debug\net7.0\Example1.exe
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\bin\Debug\net7.0\Example1.deps.json
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\bin\Debug\net7.0\Example1.runtimeconfig.json
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\bin\Debug\net7.0\Example1.dll
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\bin\Debug\net7.0\Example1.pdb
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.csproj.AssemblyReference.cache
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.AssemblyInfoInputs.cache
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.AssemblyInfo.cs
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.csproj.CoreCompileInputs.cache
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.dll
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\refint\Example1.dll
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.pdb
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\Example1.genruntimeconfig.cache
+C:\Users\brazz\OneDrive\Рабочий стол\GB\Seminar7_1\Example1\obj\Debug\net7.0\ref\Example1.dll
